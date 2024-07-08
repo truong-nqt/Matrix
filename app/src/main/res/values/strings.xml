@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="visible_image_view">visible image view</string>
+    <string name="visible_text_view">visible text view</string>
+</resources>
